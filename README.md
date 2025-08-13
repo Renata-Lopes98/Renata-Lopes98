@@ -43,12 +43,5 @@ Sou estudante na Universidade Cruzeiro do Sul (Análise e Desenvolvimento de Sis
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/renatalopes/renatalopes/output/snake.svg" alt="Snake animation" />
-
-###
 
 
