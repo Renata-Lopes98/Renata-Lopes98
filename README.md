@@ -42,6 +42,12 @@ Sou estudante na Universidade Cruzeiro do Sul (Análise e Desenvolvimento de Sis
 </div>
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in/renata-lopes-01a538378" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
 
